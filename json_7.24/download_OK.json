@@ -1,7 +1,7 @@
 [
   {
     "id": "2aeb1b4b-46fa-4cbb-bc42-a45eaab7dd9e",
-    "alias": "T_OK_1",
+    "alias": "OK-1",
     "number": "",
     "type": "OK",
     "pose": [
@@ -26,7 +26,7 @@
   },
   {
     "id": "12db22aa-5300-4d2c-9027-a97ceb658ae3",
-    "alias": "T_OK_2_Release",
+    "alias": "OK-2_Release",
     "number": "",
     "type": "OK",
     "pose": [
@@ -51,7 +51,7 @@
   },
   {
     "id": "2aeb1b4b-46fa-4cbb-bc42-a45eaab7dd9e",
-    "alias": "T_OK_3",
+    "alias": "OK-3",
     "number": "",
     "type": "OK",
     "pose": [

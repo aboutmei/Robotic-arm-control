@@ -1,7 +1,7 @@
 [
   {
     "id": "43f195fb-03eb-41fd-a856-7e0855723557",
-    "alias": "T_NG_11_1",
+    "alias": "NG-1",
     "number": "",
     "type": "NG",
     "pose": [
@@ -26,7 +26,7 @@
   },
   {
     "id": "297997e4-7551-41b9-9f8f-a4c83e87bec4",
-    "alias": "T_NG_11_2_Release",
+    "alias": "NG-2_Release",
     "number": "",
     "type": "NG",
     "pose": [
@@ -51,7 +51,7 @@
   },
   {
     "id": "1757ca27-5470-46d0-a704-3fe08ecf4254",
-    "alias": "T_NG_11_3",
+    "alias": "NG-3",
     "pose": [
       -175.379044,
       -513.809204,
